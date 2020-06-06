@@ -1,0 +1,82 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Scripts",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login[15118062071-Aasong7758258-None-all]",
+          "uid" : "d167020a09c8761d",
+          "parentUid" : "cfc683a13708e56c89a701e283d6a962",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591449058383,
+            "stop" : 1591449074100,
+            "duration" : 15717
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'all'", "'Aasong7758258'", "'15118062071'", "None" ]
+        }, {
+          "name" : "test_login[ 15118062071-Aasong7758258-None-all]",
+          "uid" : "418e2936caf8bb1",
+          "parentUid" : "cfc683a13708e56c89a701e283d6a962",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591449074190,
+            "stop" : 1591449088556,
+            "duration" : 14366
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'all'", "'Aasong7758258'", "' 15118062071'", "None" ]
+        }, {
+          "name" : "test_login[15118062071 -Aasong7758258-None-all]",
+          "uid" : "4451fa151e460737",
+          "parentUid" : "cfc683a13708e56c89a701e283d6a962",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591449088662,
+            "stop" : 1591449103742,
+            "duration" : 15080
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'all'", "'Aasong7758258'", "'15118062071 '", "None" ]
+        }, {
+          "name" : "test_login[13800009999 -159357li-请您先进行注册-账号还未注册，请您先进行注册]",
+          "uid" : "94756804b2dd40d7",
+          "parentUid" : "cfc683a13708e56c89a701e283d6a962",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591449103881,
+            "stop" : 1591449109480,
+            "duration" : 5599
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'账号还未注册，请您先进行注册'", "'159357li'", "'13800009999 '", "'请您先进行注册'" ]
+        }, {
+          "name" : "test_login[15118062071 -000000-错误-账号或密码错误]",
+          "uid" : "b1298ccb2769f34a",
+          "parentUid" : "cfc683a13708e56c89a701e283d6a962",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591449110186,
+            "stop" : 1591449116019,
+            "duration" : 5833
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'账号或密码错误'", "'000000'", "'15118062071 '", "'错误'" ]
+        } ],
+        "uid" : "cfc683a13708e56c89a701e283d6a962"
+      } ],
+      "uid" : "79d85960286d292eb05eb26a62885feb"
+    } ],
+    "uid" : "ac537b8f55a60b2e2381ee5657079cea"
+  } ]
+}

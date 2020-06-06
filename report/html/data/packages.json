@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Scripts.test_login",
+    "children" : [ {
+      "name" : "test_login[15118062071-Aasong7758258-None-all]",
+      "uid" : "d167020a09c8761d",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591449058383,
+        "stop" : 1591449074100,
+        "duration" : 15717
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'all'", "'Aasong7758258'", "'15118062071'", "None" ]
+    }, {
+      "name" : "test_login[ 15118062071-Aasong7758258-None-all]",
+      "uid" : "418e2936caf8bb1",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591449074190,
+        "stop" : 1591449088556,
+        "duration" : 14366
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'all'", "'Aasong7758258'", "' 15118062071'", "None" ]
+    }, {
+      "name" : "test_login[15118062071 -Aasong7758258-None-all]",
+      "uid" : "4451fa151e460737",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591449088662,
+        "stop" : 1591449103742,
+        "duration" : 15080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'all'", "'Aasong7758258'", "'15118062071 '", "None" ]
+    }, {
+      "name" : "test_login[13800009999 -159357li-请您先进行注册-账号还未注册，请您先进行注册]",
+      "uid" : "94756804b2dd40d7",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591449103881,
+        "stop" : 1591449109480,
+        "duration" : 5599
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'账号还未注册，请您先进行注册'", "'159357li'", "'13800009999 '", "'请您先进行注册'" ]
+    }, {
+      "name" : "test_login[15118062071 -000000-错误-账号或密码错误]",
+      "uid" : "b1298ccb2769f34a",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591449110186,
+        "stop" : 1591449116019,
+        "duration" : 5833
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'账号或密码错误'", "'000000'", "'15118062071 '", "'错误'" ]
+    } ],
+    "uid" : "Scripts.test_login"
+  } ]
+}

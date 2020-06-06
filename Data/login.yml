@@ -1,0 +1,26 @@
+test_login_001:
+  phone: "15118062071"
+  passwd: "Aasong7758258"
+  exp: "all"
+
+test_login_002:
+  phone: " 15118062071"
+  passwd: "Aasong7758258"
+  exp: "all"  # 故意改成失败的数据 为了测试报告可以添加截图使用
+
+test_login_003:
+  phone: "15118062071 "
+  passwd: "Aasong7758258"
+  exp: "all"
+
+test_login_004:
+  phone: "13800009999 "
+  passwd: "159357li"
+  toast: "请您先进行注册"
+  exp: "账号还未注册，请您先进行注册"
+
+test_login_05:
+  phone: "15118062071 "
+  passwd: "000000"
+  toast: "错误"
+  exp: "账号或密码错误"

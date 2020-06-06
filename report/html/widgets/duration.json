@@ -1,0 +1,51 @@
+[ {
+  "uid" : "b1298ccb2769f34a",
+  "name" : "test_login[15118062071 -000000-错误-账号或密码错误]",
+  "time" : {
+    "start" : 1591449110186,
+    "stop" : 1591449116019,
+    "duration" : 5833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4451fa151e460737",
+  "name" : "test_login[15118062071 -Aasong7758258-None-all]",
+  "time" : {
+    "start" : 1591449088662,
+    "stop" : 1591449103742,
+    "duration" : 15080
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "418e2936caf8bb1",
+  "name" : "test_login[ 15118062071-Aasong7758258-None-all]",
+  "time" : {
+    "start" : 1591449074190,
+    "stop" : 1591449088556,
+    "duration" : 14366
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d167020a09c8761d",
+  "name" : "test_login[15118062071-Aasong7758258-None-all]",
+  "time" : {
+    "start" : 1591449058383,
+    "stop" : 1591449074100,
+    "duration" : 15717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94756804b2dd40d7",
+  "name" : "test_login[13800009999 -159357li-请您先进行注册-账号还未注册，请您先进行注册]",
+  "time" : {
+    "start" : 1591449103881,
+    "stop" : 1591449109480,
+    "duration" : 5599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
